@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://kristinayu.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://kr98x.github.io/kristinayu.github.io//sitemap.xml
